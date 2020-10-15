@@ -2,7 +2,7 @@
 
 ## Avant-propos
 
-Cette séance d’exercices est en cours de développement. N’hésitez pas à vérifier le lien suivant afin de voir si des modifications n’ont pas été apportées dans les consignes : <https://github.com/BioDataScience-Course/...>
+Cette séance d’exercices est en cours de développement. N’hésitez pas à vérifier le lien suivant afin de voir si des modifications n’ont pas été apportées dans les consignes : https://github.com/BioDataScience-Course/A03Ga_urchin
 
 ## Objectifs
 
