@@ -13,13 +13,13 @@ Vous allez devoir compléter les fichiers qui se trouvent dans le dossier `docs`
 - un carnet de laboratoire, **urchin_notebook.Rmd**, qui servira à explorer les données sur la biométrie des oursins 
 - un rapport scientifique, **urchin_report.Rmd**, qui présentera les éléments les plus pertinents de vos analyses 
 
-Vous devrez réalisez des graphiques, des tableaux et des analyses au cours des différents modules vus dans le cadre du cours de science des données I. 
+Vous devrez réaliser des graphiques, des tableaux et des analyses au cours des différents modules vus dans le cadre du cours de science des données I. 
 
 ## Mise en situation
 
 Les données employées dans le cadre de cette étude proviennent des recherches du professeur Philippe Grosjean portant sur la croissance de *Paracentrotus lividus* Lamarck (1816).
 
-Vous pouvez importer les données via la fonctions suivantes :
+Vous pouvez importer les données via la fonction suivante :
 
 ```
 urchin <- data.io::read("urchin_bio", package = "data.io")
@@ -35,13 +35,13 @@ N'hésitez pas à faire appel à la page d'aide de ce jeu de données
 
 ### Module 2, 3 & 4
 
-A la fin de ces modules, vous devez avoir décidé d'un but dans votre recherche. Il s'agit donc de se poser une question sur les données mise à votre disposition. Ajoutez au moins 4 graphiques pertinents en lien avec la question que vous vous posez dans votre rapport. Chaque graphiques doit évidement être commenté dans le texte. 
+A la fin de ces modules, vous devez avoir décidé d'un but dans votre recherche. Il s'agit donc de se poser une question sur les données mises à votre disposition. Ajoutez au moins 4 graphiques pertinents en lien avec la question que vous vous posez dans votre rapport. Chaque graphique doit évidement être commenté. 
 
 -----
 
 ### Module 5 & 6
 
-A la fin de ces modules, vous devez avoir intégré au moins 2 tableaux qui résument vos données. Ces tableaux doivent être pertinent et en lien avec votre question de recherche fixé lors des modules précédents.
+A la fin de ces modules, vous devez avoir intégré au moins 2 tableaux qui résument vos données. Ces tableaux doivent être pertinents et en lien avec la question de recherche fixée lors des modules précédents.
 
 Votre rapport écrit doit contenir les sections suivantes :
 
@@ -58,12 +58,12 @@ Votre rapport écrit doit contenir les sections suivantes :
 
 A la fin de ces modules, vous devez avoir ammélioré votre rapport en tenant compte des remarques de l'évaluation du Q1 (même si ce n'est pas ce rapport qui a été corrigé). 
 
-Si la réalisation d'un test de chi^2^ se prête à la question de recherche que vous vous êtes posé, intégrez cette analyse statistique dans vos résultats
+Si la réalisation d'un test de chi^2^ se prête à la question de recherche que vous vous êtes posée, intégrez cette analyse statistique dans vos résultats
 
 -----
 
 ### Module 9 à 12
 
-A la fin de ces modules, vous devez avoir intégré à la section **résultats** 3 tests statistiques que vous jugez pertinent pour répondre à la question de recherche que vous vous êtes posée. N'oubliez pas de commenter et d'interpréter ces tests. 
+A la fin de ces modules, vous devez avoir intégré à la section **résultats** 3 tests statistiques que vous jugez pertinents pour répondre à la question de recherche que vous vous êtes posée. N'oubliez pas de commenter et d'interpréter ces tests. 
 
 Vous devez également avoir complété les sections **discussion** et **conclusion** de votre rapport. 
