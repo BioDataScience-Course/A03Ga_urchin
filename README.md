@@ -33,7 +33,7 @@ N'hésitez pas à faire appel à la page d'aide de ce jeu de données
 
 ## Etat de progression 
 
-### Module 2, 3 & 4
+### Module 3 & 4
 
 A la fin de ces modules, vous devez avoir décidé d'un but dans votre recherche. Il s'agit donc de se poser une question sur les données mises à votre disposition. Ajoutez au moins 4 graphiques pertinents en lien avec la question que vous vous posez dans votre rapport. Chaque graphique doit évidement être commenté. 
 
@@ -58,7 +58,7 @@ Votre rapport écrit doit contenir les sections suivantes :
 
 A la fin de ces modules, vous devez avoir ammélioré votre rapport en tenant compte des remarques de l'évaluation du Q1 (même si ce n'est pas ce rapport qui a été corrigé). 
 
-Si la réalisation d'un test de chi^2^ se prête à la question de recherche que vous vous êtes posée, intégrez cette analyse statistique dans vos résultats
+Si la réalisation d'un test de Chi^2^ se prête à la question de recherche que vous vous êtes posée, intégrez cette analyse statistique dans vos résultats
 
 -----
 
