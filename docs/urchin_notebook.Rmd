@@ -1,5 +1,5 @@
 ---
-title: 'Etude d'oursins violets'
+title: 'EBiométrie de l'oursin violet'
 author: '___'
 date: "___"
 output: html_document
