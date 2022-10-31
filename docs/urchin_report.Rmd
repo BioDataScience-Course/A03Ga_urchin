@@ -1,48 +1,43 @@
 ---
-title: "Les oursins violets"
-author: '...'
-date: "..."
+title: "___"
+author: "___"
+date: "___"
 output: html_document
 ---
+
+<!--% Complétez l'entête YAML -->
 
 ```{r setup, include=FALSE}
 SciViews::R
 ```
 
+```{r import, include = FALSE}
+# Importation des données
+
+```
+
 # Introduction
 
-<!---
-Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases.
---->
+<!--% Présentez les organismes de cette étude. Vous devez être synthétique entre 5 et 10 phrases. -->
 
 # But
 
-<!---
-Présentez votre but.Vous devez être synthétique entre 2 et 5 phrases. 
+<!--% Votre but (question posée) en 1 à 2 phrases. -->
 
-Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but.
---->
+<!--# Un lecteur doit être capable de comprendre l'intérêt de votre travail après avoir lu l'introduction et le but. -->
 
-# M&M
+# Matériel et méthodes
 
-<!---
-Présentez les outils informatiques que vous utilisez. Soyez précis
---->
+<!--% Expliquez comment les données ont été acquises et présentez les outils informatiques que vous utilisez. Soyez précis et complet. -->
 
 # Résultats
 
-<!---
-Cette section doit proposer des graphiques, tableaux et analyses qui proviennent du notebook de ce projet et que vous considérez comme pertinent pour répondre à la question que vous vous posez.
---->
+<!--% Sélectionnez vos graphiques et tableaux les plus pertinents à partir de votre carnet de notes. Ceux-ci doivent effectivement répondre à la question que vous vous posez. Mettez-les au net et peaufinez l'interprétation en revoyant également la grammaire, l'orthographe, le style et veillez à utiliser les termes adéquats dans votre description. Vous pouvez découper la section résultats en sous-sections avec des titres de niveau deux (commençant par deux dièses : ## Titre2) -->
 
-# Discussion 
+# Discussion
 
-<!---
-Cette section doit proposer une interprétation biologique des résultats que vous avez sélectionnés pour votre rapport.
---->
+<!--% Pour mémoire, laissez cette section vide pour l'instant. -->
 
 # Conclusion
 
-<!---
-Proposez une conclusion à votre travail de maximum 5 phrases.
---->
+<!--% Pour mémoire, laissez cette section vide pour l'instant. -->
