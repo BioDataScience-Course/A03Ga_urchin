@@ -1,4 +1,4 @@
-# Biométrie de *Parocentrotus lividus* Lamarck (1816)
+# Étude de l'oursin violet *Paracentrotus lividus* Lamarck (1816)
 
 ## Objectifs
 
